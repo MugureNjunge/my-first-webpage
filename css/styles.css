@@ -1,8 +1,18 @@
-h1{
+.important{
   color: maroon;
-  font-style: italic;
-  background-color: yellowgreen;
 }
-p{
-  background-color: aquamarine;
+#popular{
+  color: blue;
+  background-color: yellowgreen;
+  float: centre;
+}
+.images{
+  size: 0.1em;
+}
+.test-box{
+  border-bottom: 2px plum;
+  border-top: 2px yellowgreen;
+  border-right: 2x magenta;
+  border-left: 2px maroon;
+  padding: 4px;
 }
