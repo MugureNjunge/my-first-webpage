@@ -1,18 +1,11 @@
-.important{
-  color: maroon;
-}
-#popular{
-  color: blue;
-  background-color: yellowgreen;
-  float: centre;
+.list{
+  background-color: azure;
+  font-weight: bold;
+  padding: left 20px; ;
 }
 .images{
-  size: 0.1em;
+  float: right;
 }
-.test-box{
-  border-bottom: 2px plum;
-  border-top: 2px yellowgreen;
-  border-right: 2x magenta;
-  border-left: 2px maroon;
-  padding: 4px;
+.body{
+  padding-left: 20px;
 }
